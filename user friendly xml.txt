@@ -1,0 +1,36 @@
+﻿<booze sales>
+	<bars>
+		<bar name="Brothers">
+			<day name="Friday">
+				<special item="Vegas Bombs" price="4" type="Mixed" />
+				<special item="Double Wells" price="5" type="Mixed" />
+				<special item="Three Olives Vodka Specialty Drinks" price="4" type="Vodka" />
+			</day>
+			<day name="Saturday">
+				<special item="Jager Bombs" price="4" type="Jager" />
+				<special item="Bacardi Specialty Drinks" price="4" type="Rum" />
+				<special item="Double Wells" price="5" type="Mixed" />
+			</day>
+		</bar>
+		<bar name="Scotty's Brewhouse">
+			<day name="Friday">
+				<special item="thr3e wise men growler fills" price="10" type="Beer"/>
+				<special item="lucy's cosmopolitan" price="1" type="Mixed"/>
+			</day>
+			<day name="Saturday">
+				<special item="48oz bud light pitchers" price="9" type="Beer"/>
+				<special item="mimosas" price="5" type="Wine"/>
+			</day>
+		</bar>
+	</bars>
+	<stores>
+		<store name ="Muncie Liquors">
+			<special item="Captain Morgan spiced rum" price="15" type="Rum"/>
+			<special item="Smirnoff" price="20" type="Vodka"/>
+		</store>
+		<store name="Friendly Package">
+			<special item="Admiral Nelson" price="13.97" type="Rum"/>
+			<special item="Titos Vodka" price="15.97" type="Vodka"/>
+		</store>
+	</stores>
+</boozesales>
